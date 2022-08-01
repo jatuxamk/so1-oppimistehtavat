@@ -4,7 +4,7 @@ Tämä on repository Sovellusohjelmointi 1 -opintojakson oppimistehtävän palau
 
 ## Käytön ja käyttöönoton ohjeet:
 
-1. Kloonaa repository omalle koneelleesi (esim. git clone *repositoryn_git-osoite*)
+1. Kloonaa repository omalle koneelleesi (esim. `git clone *repositoryn_git-osoite*`)
 
 2. Avaa kloonattu kansio Visual Studio Codella
 
@@ -16,9 +16,9 @@ Tämä luo uuden React-projektin samaan kansioon. Uuden projektin luominen uudel
 
 5. Toteuta sovellustasi ja ylläpidä repositoryjä Git-työkulun mukaisesti joko VS Coden Git-työkalulla tai erillisinä komentoina:
 
-- git add . (Lisää muutetut tiedostot repositoryyn)
-- git commit -m "kommentti" (Vahvistaa muutokset)
-- git push origin main (Siirtää muuttuneen repositoryn Githubiin)
+- `git add .` (Lisää muutetut tiedostot repositoryyn)
+- `git commit -m "kommentti"` (Vahvistaa muutokset)
+- `git push origin main` (Siirtää muuttuneen repositoryn Githubiin)
 
 6. Tehtävää palauttaessasi varmista, että koodistasi on viimeisin versio myös GitHubissa ja olet ilmoittanut repositoryn osoitteen tehtäväraportissa.
 

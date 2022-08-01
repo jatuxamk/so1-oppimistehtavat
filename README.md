@@ -8,9 +8,10 @@ Tämä on repository Sovellusohjelmointi 1 -opintojakson oppimistehtävän palau
 
 2. Avaa kloonattu kansio Visual Studio Codella
 
-3. Avaa VS Coden sisäänrakennettu komentokehote (Terminal) ja suorita komento **npx create-react-app .** (huomaa piste kommennon lopussa). Tämä luo uuden React-projektin samaan kansioon. Uuden projektin luominen uudelleennimeää tämän README.md-tiedoston -> README.old.md-tiedostoksi.
+3. Avaa VS Coden sisäänrakennettu komentokehote (Terminal) ja suorita komento 
+`npx create-react-app . --template typescript`(huomaa piste kohdekansion tilalla). Tämä luo uuden React-projektin samaan kansioon. Uuden projektin luominen uudelleennimeää tämän README.md-tiedoston -> README.old.md-tiedostoksi.
 
-4. Käynnistä React-kehitysympäristö komennolla **yarn start** 
+4. Käynnistä React-kehitysympäristö komennolla `npm start` 
 
 5. Toteuta sovellustasi ja ylläpidä repositoryjä Git-työkulun mukaisesti joko VS Coden Git-työkalulla tai erillisinä komentoina:
 

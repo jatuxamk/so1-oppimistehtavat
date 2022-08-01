@@ -4,7 +4,7 @@ Tämä on repository Sovellusohjelmointi 1 -opintojakson oppimistehtävän palau
 
 ## Käytön ja käyttöönoton ohjeet:
 
-1. Kloonaa repository omalle koneelleesi (esim. `git clone *repositoryn_git-osoite*`)
+1. Kloonaa repository omalle koneelleesi (esim. ``git clone *repositoryn_git-osoite*``)
 
 2. Avaa kloonattu kansio Visual Studio Codella
 
